@@ -1,0 +1,15 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class TimeUpTextScript : MonoBehaviour
+{
+    
+    float destroyTime = 2f;
+
+    void Start()
+    {
+        Destroy(gameObject, destroyTime);
+    }
+
+}
