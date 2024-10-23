@@ -1,4 +1,5 @@
 # TFG
+[Check the thesis here](https://drive.google.com/file/d/1_DIW-kT0l5Ul2EMtqOtQeQQVh_LA9Gs3/view?usp=sharing)
 
 This project involves the development of an interactive video game designed specifically for the Twitch community. The game offers a series of engaging mini-games that Twitch viewers can play directly from the chat interface. The main goal is to enhance viewer engagement and create an entertaining experience for both streamers and their audience.
 
@@ -28,3 +29,5 @@ Four Different Mini-Games: The game includes four unique mini-games that can be 
 ## Contact
 
 For any questions or feedback, please contact Òscar Tarrés at oscar.tarres@gmail.com.
+
+
